@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             mTextSensorLight.setText(sensor_error);
         }
 
-        //test that all proximity sensor exists
+        //test that all proximity sensor existss
         if (mSensorProximity == null) {
 
             mTextSensorProximity.setText(sensor_error);
