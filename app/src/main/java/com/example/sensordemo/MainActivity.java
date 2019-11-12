@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         setContentView(R.layout.activity_main);
 
 
+        //dsdasdadas
         //get the instance of the sensor manager from the system service.
         mSensorManager = (SensorManager)getSystemService(Context.SENSOR_SERVICE);
 
